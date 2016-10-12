@@ -1,0 +1,16 @@
+See more at: http://blog.bdoughan.com/
+
+@XmlAnyAttribute
+@XmlAnyElement
+
+@XmlAttachmentRef
+@XmlElementDecl
+
+@XmlID
+@XmlIDREF
+
+@XmlList
+@XmlMixed
+
+@XmlInlineBinaryData
+@XmlMimeType
